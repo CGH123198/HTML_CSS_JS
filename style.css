@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+
+h1 {
+    color: blue;
+}
+
+.clicked{
+    color:tomato;
+    transition: color 2s ease-in-out;
+}
+
+.sexy-font{
+    font-family:Arial, Helvetica, sans-serif;
+}
