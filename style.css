@@ -14,3 +14,11 @@ h1 {
 .sexy-font{
     font-family:Arial, Helvetica, sans-serif;
 }
+
+a:hover{
+    color:blue;
+}
+
+.hidden{
+    display:none;
+}
