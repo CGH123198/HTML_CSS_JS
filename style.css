@@ -34,6 +34,20 @@ a:hover{
 }
 
 #quote{
-    color:rgb(222, 225, 228);
+    color:rgb(253, 253, 253);
     font-weight:900;
+    font-size:22px;
+}
+
+footer{
+    font-size:18px;
+    font-weight: 800;
+    position:absolute;
+    height: 60px;
+    width: 99%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    line-height: 25px;
+    border-top: 3px solid #696bf0;
+    bottom: 0px;
 }

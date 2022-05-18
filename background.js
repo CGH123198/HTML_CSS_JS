@@ -6,5 +6,5 @@ const bgImage = document.createElement("img");
 bgImage.classList.add("bgImage");
 
 bgImage.src = `img/${chosenImage}`;
-
+bgImage.style.width = '100%';
 document.body.append(bgImage);
