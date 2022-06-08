@@ -1,0 +1,41 @@
+a:hover{
+    color:blue;
+}
+html{
+    font-size: 14px;
+    font-family: 'Tapestry', cursive;
+    background-color: #009a9f;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 4px 4px 1px black;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+
+.inside{
+    list-style-position: inside;
+}
+
+img{
+  display: block;
+  margin: 0px auto;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0px 20px 10px 20px;
+    border: 7px solid black;
+  }

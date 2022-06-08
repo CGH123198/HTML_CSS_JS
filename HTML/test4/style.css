@@ -1,0 +1,12 @@
+p.receiver-column{
+    text-align: right;
+}
+
+dt{
+    font-weight: 600;
+}
+
+a{
+    color:blue;
+    font-weight:600;
+}
