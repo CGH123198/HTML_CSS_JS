@@ -1,0 +1,57 @@
+.search {
+    background: #FFD17E;
+    text-align: center;
+}
+
+#psearch h1 {
+    font-size: 4em;
+    margin: 0.3em auto 0;
+}
+
+#psearch p {
+    font-size: 1.7rem;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    width: 60%;
+}
+
+#psearch > p {
+    margin: 1em auto 0;
+    width: 66vw;
+    line-height: 28px;
+}
+
+#psearch form {
+    margin: 3em 0;
+}
+
+#psearch form input {
+    margin: 1.2em -30px;
+    font-size: 1.5em;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border: none;
+}
+
+#psearch input[type="text"] {
+    width: 450px;
+}
+
+#psearch input[type="button"] {
+    background: #21243D;
+    color: white;
+}
+
+#psearch input[type="button"]:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+#psearch input::placeholder {
+    color: rgba(212, 212, 228, 0.678);
+}
+
+#psearch input[type="text"]:focus {
+    outline: 0;
+}
