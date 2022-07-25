@@ -1,0 +1,33 @@
+.home {
+    background-image: url('../img/main/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#home {
+    margin: 0 2em;
+    color: white;
+}
+
+#home h1 {
+    width: 100%;
+    margin: 1em 0 0 auto;
+    font-size: 7em;
+}
+
+#home p {
+    width: 725px;
+    font-size: 2.5em;
+    color: rgba(245, 235, 235, 0.863);
+}
+
+#home button {
+    background: #21243D;
+    font-size: 1.8em;
+    font-weight: bold;
+    border-radius: 35px 35px;
+    color: white;
+    width: 325px;
+    height: 68px;
+}
